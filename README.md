@@ -5,4 +5,4 @@ This project aims to build a prediction model for the breast cancer detection us
 Methodologies are inspired by the paper “Detecting Cancer Metastases on Gigapixel Pathology Images” (Liu et al. ,2017). </br>
 </br> 
 This is a final project for COMS 4995: Applied Deep Learning taught by Joshua Gordon at Columbia University in Fall 2022. </br>
-![image](https://user-images.githubusercontent.com/42953950/210932661-91957ce1-6688-4724-a6d0-c349057d5024.png) </br>
+</br>
